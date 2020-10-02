@@ -1,0 +1,25 @@
+[{
+	"postId": "234234",
+	"postType":"iconIg",
+	"thumbUrl":"med_thumbnail",
+	"caption":"#waterfall"
+},
+{
+	"postId": "234234",
+	"postType":"iconFacebook",
+	"thumbUrl":"med_thumbnail2",
+	"caption":"#Bali"
+},
+{
+	"postId": "234234",
+	"postType":"iconFacebook",
+	"thumbUrl":"med_thumbnail3",
+	"caption":"#Thailand"
+},
+{
+	"postId": "53533",
+	"postType":"iconPinterest",
+	"thumbUrl":"med_thumbnail4",
+	"caption":"#Japan"
+}
+]
